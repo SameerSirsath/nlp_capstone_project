@@ -1,0 +1,3 @@
+Original: Le traitement automatique du langage naturel et la recherche sémantique révolutionnent la science.
+Detected Language: fr
+English Translation: Natural language processing and semantic research revolutionize science.

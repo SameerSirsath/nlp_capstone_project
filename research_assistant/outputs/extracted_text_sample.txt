@@ -1,0 +1,24 @@
+Agentic RAG Research Assistant Textbook | Page 1
+Chapter 1: Foundations of Natural Language Processing (Section 1)
+Natural Language Processing (NLP) is a multidisciplinary domain bridging linguistics, computer science, and
+artificial intelligence. The primary ambition of NLP is to empower computational systems to understand,
+interpret, synthesize, and generate human languages with high semantic fidelity. Early paradigms relied
+extensively on formal grammar engineering and rule-based systems, which proved fragile when confronted
+with the immense ambiguity, idiomatic nuances, and polysemy inherent in human communication.
+Academic Discussion and Context for Section 1:
+In modern scientific exploration, the volume of peer-reviewed publications expands exponentially.
+Researchers face significant cognitive load when reviewing literature, synthesizing comparative
+methodologies, and identifying knowledge gaps. The integration of Natural Language Processing (NLP)
+techniques with Retrieval-Augmented Generation (RAG) establishes an autonomous pipeline capable of
+extracting, indexing, and analyzing authoritative domain corpora.
+Key Technical Specification for Page 1:
+- Computational Module: NLP Practical Sequence 01 to 06.
+- Processing Stage: Lexical normalization, TF-IDF vectorization, dense embedding space, LDA topic
+extraction, and LangGraph agentic routing.
+- Target Architecture: Local Ollama runtime with llama3.2:1b LLM and nomic-embed-text embeddings.
+- Vector Persistence: ChromaDB high-performance vector store with persistent storage.
+Experimental observations demonstrate that agentic workflows capable of evaluating query specificity prior
+to initiating vector retrieval achieve an average latency reduction of 34% for conversational queries while
+maintaining 98.7% factual accuracy on domain-specific academic queries. Furthermore, the integration of
+multilingual neural translation enables researchers worldwide to query and synthesize foreign-language
+literature without sema
