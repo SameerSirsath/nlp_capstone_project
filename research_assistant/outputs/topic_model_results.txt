@@ -1,5 +1,5 @@
-Topic #0: 0.017*"1" + 0.017*"section" + 0.017*"document" + 0.013*"term" + 0.013*"frequency" + 0.009*"agentic" + 0.009*"page" + 0.009*"rag"
-Topic #1: 0.028*"processing" + 0.024*"nlp" + 0.021*"vector" + 0.016*"vectorization" + 0.016*"lda" + 0.016*"embedding" + 0.016*"stage" + 0.016*"space"
-Topic #2: 0.029*"section" + 0.028*"1" + 0.020*"modern" + 0.020*"rag" + 0.019*"context" + 0.019*"scientific" + 0.018*"academic" + 0.018*"agentic"
-Topic #3: 0.018*"latent" + 0.014*"dirichlet" + 0.013*"topic" + 0.012*"section" + 0.012*"literature" + 0.011*"1" + 0.011*"research" + 0.010*"modern"
-Topic #4: 0.049*"vector" + 0.039*"queries" + 0.039*"query" + 0.022*"agentic" + 0.021*"multilingual" + 0.021*"translation" + 0.021*"demonstrate" + 0.020*"factual"
+Topic #1: vector (0.005), page (0.004), queries (0.004), normalization (0.004), academic (0.004), processing (0.004)
+Topic #2: section (0.040), page (0.039), rag (0.028), research (0.024), modern (0.024), document (0.023)
+Topic #3: processing (0.031), nlp (0.030), topic (0.016), lda (0.016), natural (0.016), identifying (0.015)
+Topic #4: vector (0.052), queries (0.036), query (0.035), multilingual (0.020), translation (0.019), chromadb (0.018)
+Topic #5: section (0.027), page (0.027), dense (0.018), semantic (0.018), modern (0.018), lexical (0.018)

@@ -1,11 +1,11 @@
-chunk_id,label,score,preview
-0,POSITIVE,0.9964,Agentic RAG Research Assistant Textbook | Page 1 Chapter 1: Foundations of Natur
-1,POSITIVE,0.9953,"Academic Discussion and Context for Section 1: In modern scientific exploration,"
-2,NEGATIVE,0.9738,"- Processing Stage: Lexical normalization, TF-IDF vectorization, dense embedding"
-3,POSITIVE,0.9917,Agentic RAG Research Assistant Textbook | Page 2 Chapter 2: Document Ingestion a
-4,POSITIVE,0.9953,"Academic Discussion and Context for Section 1: In modern scientific exploration,"
-5,NEGATIVE,0.9738,"- Processing Stage: Lexical normalization, TF-IDF vectorization, dense embedding"
-6,NEGATIVE,0.9905,Agentic RAG Research Assistant Textbook | Page 3 Chapter 3: Lexical Normalizatio
-7,POSITIVE,0.9953,"Academic Discussion and Context for Section 1: In modern scientific exploration,"
-8,NEGATIVE,0.9738,"- Processing Stage: Lexical normalization, TF-IDF vectorization, dense embedding"
-9,POSITIVE,0.9837,Agentic RAG Research Assistant Textbook | Page 4 Chapter 4: Statistical Vectoriz
+chunk_id,sentiment_label,confidence_score,text_preview
+1,POSITIVE,0.9976,--- [Page 1] --- Agentic RAG Research Assistant Textbook | Page 1 Chapter 1: Foundations o...
+2,POSITIVE,0.9953,"Academic Discussion and Context for Section 1: In modern scientific exploration, the volum..."
+3,NEGATIVE,0.9738,"- Processing Stage: Lexical normalization, TF-IDF vectorization, dense embedding space, LD..."
+4,POSITIVE,0.9935,--- [Page 2] --- Agentic RAG Research Assistant Textbook | Page 2 Chapter 2: Document Inge...
+5,POSITIVE,0.9953,"Academic Discussion and Context for Section 1: In modern scientific exploration, the volum..."
+6,NEGATIVE,0.9738,"- Processing Stage: Lexical normalization, TF-IDF vectorization, dense embedding space, LD..."
+7,NEGATIVE,0.9959,--- [Page 3] --- Agentic RAG Research Assistant Textbook | Page 3 Chapter 3: Lexical Norma...
+8,POSITIVE,0.9953,"Academic Discussion and Context for Section 1: In modern scientific exploration, the volum..."
+9,NEGATIVE,0.9738,"- Processing Stage: Lexical normalization, TF-IDF vectorization, dense embedding space, LD..."
+10,POSITIVE,0.9768,--- [Page 4] --- Agentic RAG Research Assistant Textbook | Page 4 Chapter 4: Statistical V...

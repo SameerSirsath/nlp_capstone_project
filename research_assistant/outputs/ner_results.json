@@ -1,70 +1,104 @@
 [
   {
-    "text": "Agentic RAG Research",
-    "label": "ORG"
+    "entity_text": "1",
+    "entity_type": "CARDINAL",
+    "start_char": 11,
+    "end_char": 12
   },
   {
-    "text": "Chapter 1: Foundations of Natural Language Processing (Section 1",
-    "label": "LAW"
+    "entity_text": "Chapter 1: Foundations of Natural Language Processing (Section 1",
+    "entity_type": "LAW",
+    "start_char": 67,
+    "end_char": 131
   },
   {
-    "text": "Natural Language Processing",
-    "label": "ORG"
+    "entity_text": "Natural Language Processing",
+    "entity_type": "ORG",
+    "start_char": 133,
+    "end_char": 160
   },
   {
-    "text": "NLP",
-    "label": "ORG"
+    "entity_text": "NLP",
+    "entity_type": "ORG",
+    "start_char": 162,
+    "end_char": 165
   },
   {
-    "text": "NLP",
-    "label": "ORG"
+    "entity_text": "NLP",
+    "entity_type": "ORG",
+    "start_char": 290,
+    "end_char": 293
   },
   {
-    "text": "Section 1",
-    "label": "LAW"
+    "entity_text": "Section 1",
+    "entity_type": "LAW",
+    "start_char": 681,
+    "end_char": 690
   },
   {
-    "text": "Natural Language Processing",
-    "label": "ORG"
+    "entity_text": "Natural Language Processing",
+    "entity_type": "ORG",
+    "start_char": 952,
+    "end_char": 979
   },
   {
-    "text": "NLP",
-    "label": "ORG"
+    "entity_text": "NLP",
+    "entity_type": "ORG",
+    "start_char": 981,
+    "end_char": 984
   },
   {
-    "text": "Retrieval-Augmented Generation (RAG",
-    "label": "ORG"
+    "entity_text": "Retrieval-Augmented Generation (RAG",
+    "entity_type": "ORG",
+    "start_char": 1002,
+    "end_char": 1037
   },
   {
-    "text": "Key Technical Specification",
-    "label": "ORG"
+    "entity_text": "Key Technical Specification",
+    "entity_type": "ORG",
+    "start_char": 1151,
+    "end_char": 1178
   },
   {
-    "text": "1",
-    "label": "CARDINAL"
+    "entity_text": "1",
+    "entity_type": "CARDINAL",
+    "start_char": 1188,
+    "end_char": 1189
   },
   {
-    "text": "NLP",
-    "label": "ORG"
+    "entity_text": "NLP",
+    "entity_type": "ORG",
+    "start_char": 1215,
+    "end_char": 1218
   },
   {
-    "text": "01 to 06",
-    "label": "DATE"
+    "entity_text": "01 to 06",
+    "entity_type": "DATE",
+    "start_char": 1238,
+    "end_char": 1246
   },
   {
-    "text": "LangGraph",
-    "label": "ORG"
+    "entity_text": "LangGraph",
+    "entity_type": "ORG",
+    "start_char": 1362,
+    "end_char": 1371
   },
   {
-    "text": "vector",
-    "label": "DATE"
+    "entity_text": "vector",
+    "entity_type": "DATE",
+    "start_char": 1694,
+    "end_char": 1700
   },
   {
-    "text": "34%",
-    "label": "PERCENT"
+    "entity_text": "34%",
+    "entity_type": "PERCENT",
+    "start_char": 1751,
+    "end_char": 1754
   },
   {
-    "text": "98.7%",
-    "label": "PERCENT"
+    "entity_text": "98.7%",
+    "entity_type": "PERCENT",
+    "start_char": 1800,
+    "end_char": 1805
   }
 ]
